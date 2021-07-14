@@ -39,7 +39,7 @@ const Formulario = () => {
             name="nombre"
             className="form-control"
             type="text"
-            placeholder="Buscar por ingrediente"
+            placeholder="Search by ingredient"
             onChange={obtenerDatosReceta}
           />
         </div>
